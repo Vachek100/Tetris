@@ -36,4 +36,4 @@ Pak stačí napsat do terminálu příkaz **make run** a poté co se příkaz pr
 
 > :bulb: **Tip:** do tohoto Tetrisu si můžete přidat i vlastní **Tetromino skin**. Stačí pouze do složky se soubory vložit obrázek s názvem **tetromino_block.png**. Ale musí být velký **19x19 pixelů**.
 
-> :waring: **Varování!** při jakékoliv změně jakéhokoliv souboru je nutno použít znova buď 1. nebo 2. způsob překladu. Kvůli tomu, aby se změny aplikovaly.# Tetris
+> :warning: **Varování!** při jakékoliv změně jakéhokoliv souboru je nutno použít znova buď 1. nebo 2. způsob překladu. Kvůli tomu, aby se změny aplikovaly.# Tetris
